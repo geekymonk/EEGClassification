@@ -1,4 +1,5 @@
-The data files are taken from http://www.bbci.de/competition/iv/desc_2a.pdf and processed using the file slice_data2.mat
+The data files were taken from http://www.bbci.de/competition/iv/desc_2a.pdf and were processed using the file slice_data2.m
 These files are in the project_datasets folder. 
 Trained models will be saved in SavedModels folder.
-Weused python3 environment based on 'requirements.txt' file.
+We used python3 environment based on 'requirements.txt' file.
+Check out report.pdf for the classification results when we train with CNN and RNN based architectures.
